@@ -1,0 +1,24 @@
+/*! font face */
+@font-face {
+    font-family: "Dongle";
+    src: url("../fonts/Dongle-Regular.ttf") format(truetype);
+}
+
+body{
+    font-family: "Dongle", sans-serif;
+    background-color: rgb(214, 200, 250);
+}
+
+.delete{
+    padding: 5px 15px;
+}
+
+.add-car{
+    padding: 5px 50px;
+}
+
+
+.btn-add-control {
+    width: 150px;
+    margin-left: 10px;
+}
